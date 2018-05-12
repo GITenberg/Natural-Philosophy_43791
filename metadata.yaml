@@ -1,0 +1,36 @@
+_repo: Natural-Philosophy_43791
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Seltzer, Thomas
+    birthdate: 1873
+    deathdate: 1943
+    gutenberg_agent_id: '5085'
+    url: http://www.gutenberg.org/2009/agents/5085
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Seltzer_%28translator%29
+covers:
+- cover_type: archival
+  image_path: 43791-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ostwald, Wilhelm
+    alias: Ostwald, Friedrich Wilhelm
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '42408'
+    url: http://www.gutenberg.org/2009/agents/42408
+description: ''
+gutenberg_issued: '2013-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43791'
+  lccn: '10029774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science -- Philosophy'
+title: Natural Philosophy
+url: http://www.gutenberg.org/ebooks/43791
